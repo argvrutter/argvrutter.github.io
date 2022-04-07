@@ -1,4 +1,6 @@
-# Your blog
+#  Blog of argvrutter
+
+## Usage: ./argvrutter.github.io[link](https://argvrutter.github.io/)
 
 ### The Feynman Technique to Learning:
 
