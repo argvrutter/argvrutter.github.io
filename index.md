@@ -1,7 +1,10 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+#  Blog of argvrutter
 
-![Image of fast.ai logo](images/logo.png)
+## Usage: ./argvrutter.github.io -visit [link](https://argvrutter.github.io/)
 
-## This is a title
+### The Feynman Technique to Learning:
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+1. Choose a concept you want to learn about
+2. Explain it to a 12 year old
+3. Reflect, Refine, and Simplify
+4. Organize and Review
